@@ -1,2 +1,3 @@
 # practice-eg
-Practice 
+Practice
+This is just a practice page
